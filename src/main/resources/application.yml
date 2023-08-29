@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://pildorajava:tuzxuelhxVXG7IeJ@pildora.xia6wxe.mongodb.net/
+      database: pildora
